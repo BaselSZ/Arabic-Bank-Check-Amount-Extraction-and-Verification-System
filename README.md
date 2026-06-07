@@ -1,4 +1,4 @@
-# Arabic Bank Check Amount Extraction and Verification System
+# Arabic Bank Check Amount Extraction & Processing
 
 ## 1. Problem Definition
 Automatic processing of bank checks is an important task in financial systems because manual verification is time-consuming, expensive, and prone to human error. Arabic bank checks present additional challenges due to handwritten text variability, Arabic script complexity, and differences in writing styles.
